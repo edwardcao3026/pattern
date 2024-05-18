@@ -4,16 +4,18 @@ This repository contains the Julia code and generated plots for the paper [1], w
 
 **Requirements:**
 
-- Julia v1.9.4
-- CSV v0.10.12
+- Julia v1.9.1
+- DelimitedFiles v0.10.12
 - Plots v1.39.0
-- StaticArrays v1.9.2
-- StatsBase v0.34.
+- Dates
+- StatsBase v0.33.21
+- HDF5 v0.17.1
+- SparseArrays v1.10.0
+- XLSX v0.10.1
 
 All the codes have been tested on a MacBook Pro with Apple M3 Pro chip (11 cores) and 18 GB RAM.
 
 All the curves are computed using the equation
-
 ![equation](https://latex.codecogs.com/svg.image?\langle&space;n\rangle=\frac{1}{2}\left(1-\text{FF}&plus;\sqrt{\frac{8k&plus;n_c(1-\text{FF})^2}{n_c}}\right))
 
 of which the details are described in [1].
