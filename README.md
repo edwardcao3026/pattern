@@ -13,7 +13,9 @@ This repository contains the Julia code and generated plots for the paper [1], w
 All the codes have been tested on a MacBook Pro with Apple M3 Pro chip (11 cores) and 18 GB RAM.
 
 All the curves are computed using the equation
-![equation](https://latex.codecogs.com/svg.image?\langle&space;n\rangle=\frac{1}{2}\left(1-\text{FF}&plus;\sqrt{\frac{8k&plus;n_c(1-\text{FF})^2}{n_c}}\right))
+
+![equation](https://latex.codecogs.com/svg.image?\langle&space;n\rangle=\frac{1}{2}\left(1-\text{FF}&plus;\sqrt{\frac{8k&plus;n_c(1-\text{FF})^2}{n_c}}\right),)
+
 of which the details are described in [1].
 
 **File description:**
