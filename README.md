@@ -1,6 +1,6 @@
 # Universal deterministic patterns in stochastic count data
 
-This repository contains the Julia code and generated plots for the paper [1], where the corresponding data are deposited at [dd](dd)
+This repository contains the Julia code and generated plots for the paper [1], where the corresponding data are deposited at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11213863.svg)](https://doi.org/10.5281/zenodo.11213863)
 
 **Requirements:**
 
