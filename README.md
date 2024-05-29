@@ -28,4 +28,4 @@ of which the details are described in [1].
 
 **Reference:**
 
-- [1] Z. Cao, Y. Wang, R. Grima. *Universal deterministic patterns in stochastic count data*. 
+- [1] Z. Cao, Y. Wang, R. Grima. [*Universal deterministic patterns in stochastic count data*](https://arxiv.org/abs/2405.17530). 
